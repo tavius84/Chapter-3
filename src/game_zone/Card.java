@@ -19,6 +19,8 @@ public class Card {
 		public void setValue(int v, int v2) {
 			value = v;
 			value = v2;
+			//hello test
+			
 		}
 
 }
